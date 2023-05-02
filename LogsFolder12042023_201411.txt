@@ -1,0 +1,34 @@
+Request method:	GET
+Request URI:	http://localhost:3000/employee/2
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Vary: Origin, Accept-Encoding
+Access-Control-Allow-Credentials: true
+Cache-Control: no-cache
+Pragma: no-cache
+Expires: -1
+X-Content-Type-Options: nosniff
+Content-Type: application/json; charset=utf-8
+Content-Length: 136
+ETag: W/"88-oIJHltmB6d6fMoTPooOdLuYX8kY"
+Date: Wed, 12 Apr 2023 14:44:13 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+
+{
+    "firstName": "Sakshi",
+    "lastName": "jain",
+    "address": "Pune",
+    "mobileNo": 899888,
+    "emailId": "Sanuja@gmail.com",
+    "id": 2
+}
